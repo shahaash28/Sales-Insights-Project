@@ -6,7 +6,7 @@
 
 This projects basically consists of a dataset which shows the sales of a company over the past 4 years. The dataset includes various measures like transactions of the products, market codes, names of markets, total revenue, etc. This project mainly focuses on the sales, company did in the past four years all over INDIA. Also, the data has been fetched from Mysql server into Tableau. So, after fetching data and after analysis and visualisation using Tableau, what will be the overall output is shown via dashboard.
 
-The overall outcomem consists of:
+The overall outcomes consists of:
   - What will be the companies revenue by quantity and sales from year 2017 - 2020?
   - What will be the revenue of whole year ?
   - What will be the reveneue differnt states throughout the year?
