@@ -1,5 +1,7 @@
 # Sales Insights Project
 
+#### Link to the project : https://prod-apnortheast-a.online.tableau.com/#/site/aashshah/workbooks/184031/views
+
 ## Overview
 
 This projects basically consists of a dataset which shows the sales of a company over the past 4 years. The dataset includes various measures like transactions of the products, market codes, names of markets, total revenue, etc. This project mainly focuses on the sales, company did in the past four years all over INDIA. Also, the data has been fetched from Mysql server into Tableau. So, after fetching data and after analysis and visualisation using Tableau, what will be the overall output is shown via dashboard.
